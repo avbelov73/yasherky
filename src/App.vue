@@ -13,6 +13,11 @@
             @active="setActiveArea"
         />
       </template>
+      <Addition
+          v-for="a in addition"
+          :key="a.id"
+          :data="a"
+      />
       <div class="container_bg" :style="{backgroundImage: 'url(' + border + ')'}"></div>
     </div>
     <div class="section" v-if="activeSection">
@@ -31,6 +36,8 @@ import bg from '@/assets/1.png';
 import Area from '@/components/Area.vue';
 import geo from '@/geo.json';
 import prices from '@/prices.json';
+import Addition from '@/components/Addition.vue';
+import addition from '@/addition.json'
 export default {
   name: 'App',
   data() {
@@ -40,11 +47,12 @@ export default {
       c: c,
       border: border,
       prices,
-      activeSection: null
+      activeSection: null,
+      addition
     }
   },
   components: {
-    Area
+    Area, Addition
   },
   computed: {
     section() {
