@@ -1,23 +1,12 @@
 <template>
   <div>
-<!--    <svg-->
-<!--        :viewBox="'0 0 ' + width + ' ' + height"-->
-<!--        :width="width"-->
-<!--        :height="height"-->
-<!--        :style="{top: data.co.top + 'px', left: data.co.left + 'px'}"-->
-<!--    >-->
-<!--      <polygon-->
-<!--          :points="polygon"-->
-<!--          fill="#f00"-->
-<!--      ></polygon>-->
-<!--    </svg>-->
     <div
         class="pg"
         :style="{top: data.co.top + 'px', left: data.co.left + 'px', width: width + 'px', height: height + 'px', 'shape-outside': 'polygon(' + shape + ')', 'clip-path' : 'polygon(' + shape + ')'}"
     >
     </div>
     <div
-        class="tooltip"
+        class="atooltip"
         :style="{top: data.co.top - 84 + 'px', left: data.co.left  + 'px'}"
     >
       <img :src="require(`@/assets/${data.img}`)" />
@@ -33,7 +22,6 @@ export default {
   },
   computed: {
     width() {
-      console.log(this.data.polygon)
       const polygon = this.data.polygon;
       let max = 0;
       polygon.forEach(item => {
@@ -77,11 +65,11 @@ svg {
 .pg {
   position: absolute;
   z-index: 999;
-  &:hover + .tooltip {
+  &:hover + .atooltip {
     display: block;
   }
 }
-.tooltip {
+.atooltip {
   position: absolute;
   display: none;
   z-index: 10;

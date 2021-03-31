@@ -1,9 +1,19 @@
 <template>
   <div id="app" :style="{backgroundImage: 'url(' + bg + ')'}">
-    <div class="container">
-      <template
+    <div class="container" @click="click">
+      <div
           v-for="section in geo"
+          :key="section.id"
       >
+          <svg
+              v-if="section.id === activeSection"
+              :viewBox="`0 0 ${sWidth(section)} ${sHeight(section)}`"
+              :width="sWidth(section)"
+              :height="sHeight(section)"
+              :style="{top: section.co.top + 'px', left: section.co.left + 'px', 'z-index': 9}"
+          >
+              <polygon fill="transparent" stroke="#f00" stroke-width="3px" :points="polygon(section.polygon)" />
+          </svg>
         <Area
             v-for="area in section.places"
             :key="area.id"
@@ -12,7 +22,7 @@
             :data="prices.find(item => item.id === area.id)"
             @active="setActiveArea"
         />
-      </template>
+      </div>
       <Addition
           v-for="a in addition"
           :key="a.id"
@@ -31,7 +41,6 @@
 <script>
 import c from '@/assets/2.png';
 import border from '@/assets/border.png';
-// import bg from '@/assets/bg.jpg';
 import bg from '@/assets/1.png';
 import Area from '@/components/Area.vue';
 import geo from '@/geo.json';
@@ -64,21 +73,28 @@ export default {
       }
       let places = section.places.map(i => i.id);
       let start = places[0];
-      let counter = start;
-      places.forEach(i => {
-        if(i - counter > 1) {
-          if (res.places.length > 0) {
-            res.places += ', ';
+      let counter = start
+      for(let p = 1; p < places.length; p++ ) {
+          if(places[p] - counter > 1) {
+              if(res.places.length > 0) {
+                  res.places += ', ';
+              }
+              if(start === counter) {
+                  res.places = res.places + start;
+              } else {
+                  res.places = res.places + start + ' - ' + counter
+              }
+              // res.places += (start === counter) ? start : start + ' - ' + counter;
+              start = places[p];
+              p++;
           }
-          res.places += start + ' - ' + counter;
-          start = counter;
-        }
-        counter = i;
-      })
-      if(res.places.length === 0)
-        res.places = start + ' - ' + counter;
+          counter = places[p];
+      }
+      // if(res.places.length === 0)
+        res.places += (res.places.length > 0) ? ', ' : ''
+        res.places += start + ' - ' + counter;
       return res;
-    }
+    },
   },
   methods: {
     click(event) {
@@ -101,7 +117,32 @@ export default {
       } else {
         this.activeSection = null
       }
-    }
+    },
+      sWidth(section) {
+          const polygon = section.polygon;
+          let max = 0;
+          polygon.forEach(item => {
+              if(item[0] > max)
+                  max = item[0]
+          })
+          return max
+      },
+      sHeight(section) {
+          const polygon = section.polygon;
+          let max = 0;
+          polygon.forEach(item => {
+              if(item[1] > max)
+                  max = item[1]
+          })
+          return max
+      },
+      polygon(polygon) {
+          let res = [];
+          for (const r in polygon) {
+              res.push(polygon[r][0] + ',' + polygon[r][1])
+          }
+          return res.join(' ');
+      },
   },
 }
 </script>

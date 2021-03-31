@@ -22,7 +22,7 @@
     <div
         class="tooltip"
         :class="areaClass"
-        :style="{top: area.co.top - 84 + 'px', left: area.co.left  + 'px'}"
+        :style="{top: area.co.top + (height / 3) - 84 + 'px', left: area.co.left + (width / 4)  + 'px'}"
     >
       <div
           class="tooltip-wrapper"
