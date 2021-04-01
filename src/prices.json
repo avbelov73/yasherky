@@ -86,13 +86,13 @@
   {
     "id": 15,
     "area": 1041,
-    "price": 432300,
+    "price": "432 300",
     "sold": "Забронирован"
   },
   {
     "id": 16,
     "area": 1015,
-    "price": 424500,
+    "price": "424 500",
     "sold": "Забронирован"
   },
   {
@@ -152,7 +152,7 @@
   {
     "id": 26,
     "area": 1000,
-    "price": 420000,
+    "price": "420 000",
     "sold": true
   },
   {
@@ -308,25 +308,25 @@
   {
     "id": 52,
     "area": 1201,
-    "price": 600400,
+    "price": "600 400",
     "sold": false
   },
   {
     "id": 53,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 54,
     "area": 1001,
-    "price": 520400,
+    "price": "520 400",
     "sold": false
   },
   {
     "id": 55,
     "area": 1001,
-    "price": 520400,
+    "price": "520 400",
     "sold": false
   },
   {
@@ -338,31 +338,31 @@
   {
     "id": 57,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 58,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 59,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 60,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 61,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
@@ -374,25 +374,25 @@
   {
     "id": 63,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 64,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 65,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 66,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
@@ -410,25 +410,25 @@
   {
     "id": 69,
     "area": 1200,
-    "price": 600000,
+    "price": "600 000",
     "sold": false
   },
   {
     "id": 70,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 71,
     "area": 999,
-    "price": 519600,
+    "price": "519 600",
     "sold": false
   },
   {
     "id": 72,
     "area": 999,
-    "price": 519600,
+    "price": "519 600",
     "sold": false
   },
   {
@@ -452,19 +452,19 @@
   {
     "id": 76,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 77,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 78,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
@@ -476,25 +476,25 @@
   {
     "id": 80,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 81,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 82,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 83,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
@@ -506,91 +506,91 @@
   {
     "id": 85,
     "area": 1294,
-    "price": 637600,
+    "price": "637 600",
     "sold": false
   },
   {
     "id": 86,
     "area": 1200,
-    "price": 600000,
+    "price": "600 000",
     "sold": false
   },
   {
     "id": 87,
     "area": 1200,
-    "price": 600000,
+    "price": "600 000",
     "sold": false
   },
   {
     "id": 88,
     "area": 1200,
-    "price": 600000,
+    "price": "600 000",
     "sold": false
   },
   {
     "id": 89,
     "area": 1001,
-    "price": 520400,
+    "price": "520 400",
     "sold": false
   },
   {
     "id": 90,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 91,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 92,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 93,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 94,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 95,
     "area": 999,
-    "price": 519600,
+    "price": "519 600",
     "sold": false
   },
   {
     "id": 96,
     "area": 999,
-    "price": 519600,
+    "price": "519 600",
     "sold": false
   },
   {
     "id": 97,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 98,
     "area": 999,
-    "price": 519600,
+    "price": "519 600",
     "sold": false
   },
   {
     "id": 99,
     "area": 999,
-    "price": 519600,
+    "price": "519 600",
     "sold": false
   },
   {
@@ -602,25 +602,25 @@
   {
     "id": 101,
     "area": 1053,
-    "price": 541200,
+    "price": "541 200",
     "sold": false
   },
   {
     "id": 102,
     "area": 1200,
-    "price": 600000,
-    "sold": false
+    "price": null,
+    "sold": true
   },
   {
     "id": 103,
     "area": 1200,
-    "price": 600000,
+    "price": "600 000",
     "sold": false
   },
   {
     "id": 104,
     "area": 1200,
-    "price": 600000,
+    "price": "600 000",
     "sold": false
   },
   {
@@ -638,55 +638,55 @@
   {
     "id": 107,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 108,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 109,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 110,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 111,
     "area": 1001,
-    "price": 520400,
+    "price": "520 400",
     "sold": false
   },
   {
     "id": 112,
     "area": 1001,
-    "price": 520400,
+    "price": "520 400",
     "sold": false
   },
   {
     "id": 113,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
     "id": 114,
     "area": 1001,
-    "price": 520400,
+    "price": "520 400",
     "sold": false
   },
   {
     "id": 115,
     "area": 1000,
-    "price": 520000,
+    "price": "520 000",
     "sold": false
   },
   {
@@ -698,43 +698,43 @@
   {
     "id": 117,
     "area": 1125,
-    "price": 682500,
+    "price": "682 500",
     "sold": false
   },
   {
     "id": 118,
     "area": 1120,
-    "price": 680000,
+    "price": "680 000",
     "sold": false
   },
   {
     "id": 119,
     "area": 1120,
-    "price": 680000,
+    "price": "680 000",
     "sold": false
   },
   {
     "id": 120,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 121,
     "area": 1001,
-    "price": 620500,
+    "price": "620 500",
     "sold": false
   },
   {
     "id": 122,
     "area": 1001,
-    "price": 620500,
+    "price": "620 500",
     "sold": false
   },
   {
     "id": 123,
     "area": 1001,
-    "price": 620500,
+    "price": "620 500",
     "sold": false
   },
   {
@@ -746,181 +746,181 @@
   {
     "id": 125,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 126,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 127,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 128,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 129,
     "area": 999,
-    "price": 519500,
+    "price": "619 500",
     "sold": false
   },
   {
     "id": 130,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 131,
     "area": 997,
-    "price": 518500,
+    "price": "618 500",
     "sold": false
   },
   {
     "id": 132,
     "area": 1037,
-    "price": 638500,
+    "price": "638 500",
     "sold": false
   },
   {
     "id": 133,
     "area": 1124,
-    "price": 682000,
+    "price": "682 000",
     "sold": false
   },
   {
     "id": 134,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 135,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 136,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 137,
     "area": 999,
-    "price": 619500,
+    "price": "619 500",
     "sold": false
   },
   {
     "id": 138,
     "area": 999,
-    "price": 619500,
+    "price": "619 500",
     "sold": false
   },
   {
     "id": 139,
     "area": 999,
-    "price": 619500,
+    "price": "619 500",
     "sold": false
   },
   {
     "id": 140,
     "area": 999,
-    "price": 619500,
+    "price": "619 500",
     "sold": false
   },
   {
     "id": 141,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 142,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 143,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 144,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 145,
     "area": 1001,
-    "price": 620500,
+    "price": "620 500",
     "sold": false
   },
   {
     "id": 146,
     "area": 1003,
-    "price": 621500,
+    "price": "621 500",
     "sold": false
   },
   {
     "id": 147,
     "area": 999,
-    "price": 619500,
+    "price": "619 500",
     "sold": false
   },
   {
     "id": 148,
     "area": 1038,
-    "price": 639000,
+    "price": "639 000",
     "sold": false
   },
   {
     "id": 149,
     "area": 1040,
-    "price": 640000,
+    "price": "640 000",
     "sold": "Забронирован"
   },
   {
     "id": 150,
     "area": 1079,
-    "price": 659500,
+    "price": "659 500",
     "sold": false
   },
   {
     "id": 151,
     "area": 1136,
-    "price": 688000,
+    "price": "688 000",
     "sold": false
   },
   {
     "id": 152,
     "area": 1099,
-    "price": 669500,
+    "price": "669 500",
     "sold": false
   },
   {
     "id": 153,
     "area": 1203,
-    "price": 721500,
+    "price": "721 500",
     "sold": false
   },
   {
     "id": 154,
     "area": 1237,
-    "price": 738500,
+    "price": "738 500",
     "sold": false
   },
   {
@@ -932,787 +932,787 @@
   {
     "id": 156,
     "area": 1024,
-    "price": 632000,
+    "price": "632 000",
     "sold": false
   },
   {
     "id": 157,
     "area": 1031,
-    "price": 635500,
+    "price": "635 500",
     "sold": false
   },
   {
     "id": 158,
     "area": 1070,
-    "price": 655000,
+    "price": "655 000",
     "sold": false
   },
   {
     "id": 159,
     "area": 1042,
-    "price": 641000,
+    "price": "641 000",
     "sold": false
   },
   {
     "id": 160,
     "area": 1146,
-    "price": 693000,
+    "price": "693 000",
     "sold": false
   },
   {
     "id": 161,
     "area": 1184,
-    "price": 712000,
+    "price": "712 000",
     "sold": false
   },
   {
     "id": 162,
     "area": 1221,
-    "price": 730500,
+    "price": "730 500",
     "sold": false
   },
   {
     "id": 163,
     "area": 1276,
-    "price": 758000,
+    "price": "758 000",
     "sold": false
   },
   {
     "id": 164,
     "area": 1300,
-    "price": 770000,
+    "price": "770 000",
     "sold": false
   },
   {
     "id": 165,
     "area": 1300,
-    "price": 770000,
+    "price": "770 000",
     "sold": false
   },
   {
     "id": 166,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 167,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 168,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 169,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 170,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 171,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 172,
     "area": 1199,
-    "price": 719500,
+    "price": "719 500",
     "sold": false
   },
   {
     "id": 173,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 174,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 175,
     "area": 1195,
-    "price": 717500,
+    "price": "717 500",
     "sold": false
   },
   {
     "id": 176,
     "area": 1197,
-    "price": 718500,
+    "price": "718 500",
     "sold": false
   },
   {
     "id": 177,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 178,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 179,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 180,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 181,
     "area": 999,
-    "price": 619500,
+    "price": "619 500",
     "sold": false
   },
   {
     "id": 182,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 183,
     "area": 1199,
-    "price": 719500,
+    "price": "719 500",
     "sold": false
   },
   {
     "id": 184,
     "area": 1237,
-    "price": 738500,
+    "price": "738 500",
     "sold": false
   },
   {
     "id": 185,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 186,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 187,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 188,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 189,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 190,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 191,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 192,
     "area": 1202,
-    "price": 721000,
+    "price": "721 000",
     "sold": false
   },
   {
     "id": 193,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 194,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 195,
     "area": 1202,
-    "price": 721000,
+    "price": "721 000",
     "sold": false
   },
   {
     "id": 196,
     "area": 1197,
-    "price": 718500,
+    "price": "718 500",
     "sold": false
   },
   {
     "id": 197,
     "area": 1197,
-    "price": 718500,
+    "price": "718 500",
     "sold": false
   },
   {
     "id": 198,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 199,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 200,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 201,
     "area": 1200,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 202,
     "area": 1000,
-    "price": 620000,
+    "price": "620 000",
     "sold": false
   },
   {
     "id": 203,
     "area": 1001,
-    "price": 620500,
+    "price": "620 500",
     "sold": false
   },
   {
     "id": 204,
     "area": 1199,
-    "price": 719500,
+    "price": "719 500",
     "sold": false
   },
   {
     "id": 205,
     "area": 1246,
-    "price": 867600,
+    "price": "876 600",
     "sold": false
   },
   {
     "id": 206,
     "area": 1100,
-    "price": 780000,
+    "price": "780 000",
     "sold": false
   },
   {
     "id": 207,
     "area": 1100,
-    "price": 780000,
+    "price": "780 000",
     "sold": false
   },
   {
     "id": 208,
     "area": 1100,
-    "price": 780000,
+    "price": "780 000",
     "sold": false
   },
   {
     "id": 209,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 210,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 211,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 212,
     "area": 1199,
-    "price": 839400,
+    "price": "839 400",
     "sold": false
   },
   {
     "id": 213,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 214,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 215,
     "area": 1199,
-    "price": 839400,
+    "price": "839 400",
     "sold": false
   },
   {
     "id": 216,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 217,
     "area": 1197,
-    "price": 838200,
+    "price": "838 200",
     "sold": false
   },
   {
     "id": 218,
     "area": 1197,
-    "price": 838200,
+    "price": "838 200",
     "sold": false
   },
   {
     "id": 219,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 220,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 221,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 222,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 223,
     "area": 1000,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 224,
     "area": 1000,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 225,
     "area": 1199,
-    "price": 839400,
+    "price": "839 400",
     "sold": false
   },
   {
     "id": 226,
     "area": 1308,
-    "price": 904800,
+    "price": "904 800",
     "sold": false
   },
   {
     "id": 227,
     "area": 1000,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 228,
     "area": 1000,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 229,
     "area": 1000,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 230,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 231,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 232,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 233,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 234,
     "area": 1201,
-    "price": 840600,
+    "price": "840 600",
     "sold": false
   },
   {
     "id": 235,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 236,
     "area": 1201,
-    "price": 840600,
+    "price": "840 600",
     "sold": false
   },
   {
     "id": 237,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 238,
     "area": 1197,
-    "price": 8318200,
+    "price": "831 800",
     "sold": false
   },
   {
     "id": 239,
     "area": 1197,
-    "price": 838200,
+    "price": "838 200",
     "sold": false
   },
   {
     "id": 240,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 241,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 242,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 243,
     "area": 1200,
-    "price": 840000,
+    "price": "840 000",
     "sold": false
   },
   {
     "id": 244,
     "area": 1000,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 245,
     "area": 1000,
-    "price": 720000,
+    "price": "720 000",
     "sold": false
   },
   {
     "id": 246,
     "area": 1199,
-    "price": 839400,
+    "price": "839 400",
     "sold": false
   },
   {
     "id": 247,
     "area": 1988,
-    "price": 1511600,
+    "price": "1 511 600",
     "sold": false
   },
   {
     "id": 248,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 249,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 250,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 251,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 252,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 253,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 254,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 255,
     "area": 1541,
-    "price": 1044600,
+    "price": "1 044 600",
     "sold": false
   },
   {
     "id": 256,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 257,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 258,
     "area": 1539,
-    "price": 1043400,
+    "price": "1 043 400",
     "sold": false
   },
   {
     "id": 259,
     "area": 1539,
-    "price": 1043400,
+    "price": "1 043 400",
     "sold": false
   },
   {
     "id": 260,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 261,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 262,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 263,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 264,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 265,
     "area": 996,
-    "price": 717600,
+    "price": "717 600",
     "sold": false
   },
   {
     "id": 266,
     "area": 1542,
-    "price": 1199400,
+    "price": "1 199 400",
     "sold": false
   },
   {
     "id": 267,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 268,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 269,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 270,
     "area": 1542,
-    "price": 1199400,
+    "price": "1 199 400",
     "sold": false
   },
   {
     "id": 271,
     "area": 1542,
-    "price": 1199400,
+    "price": "1 199 400",
     "sold": false
   },
   {
     "id": 272,
     "area": 1542,
-    "price": 1199400,
+    "price": "1 199 400",
     "sold": false
   },
   {
     "id": 273,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 274,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 275,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 276,
     "area": 1540,
-    "price": 1044000,
+    "price": "1 044 000",
     "sold": false
   },
   {
     "id": 277,
     "area": 1540,
-    "price": 1044000,
+    "price": "1 044 000",
     "sold": false
   },
   {
     "id": 278,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 279,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 280,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 281,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 282,
     "area": 1542,
-    "price": 1045200,
+    "price": "1 045 200",
     "sold": false
   },
   {
     "id": 283,
     "area": 1283,
-    "price": 889800,
+    "price": "889 800",
     "sold": false
   },
   {
     "id": 284,
     "area": 1286,
-    "price": 891600,
+    "price": "891 600",
     "sold": false
   },
   {
     "id": 285,
     "area": 1286,
-    "price": 891600,
+    "price": "891 600",
     "sold": false
   },
   {
     "id": 286,
     "area": 1283,
-    "price": 889800,
+    "price": "889 800",
     "sold": false
   },
   {
@@ -1724,7 +1724,7 @@
   {
     "id": 288,
     "area": 1935,
-    "price": 1474500,
+    "price": "1 474 500",
     "sold": false
   },
   {
@@ -1736,7 +1736,7 @@
   {
     "id": 290,
     "area": 2337,
-    "price": 1755900,
+    "price": "1 755 900",
     "sold": false
   },
   {
@@ -1748,115 +1748,115 @@
   {
     "id": 292,
     "area": 1732,
-    "price": 1332400,
+    "price": "1 332 400",
     "sold": false
   },
   {
     "id": 293,
     "area": 1996,
-    "price": 1517200,
+    "price": "1 517 200",
     "sold": false
   },
   {
     "id": 294,
     "area": 1905,
-    "price": 1453500,
+    "price": "1 453 500",
     "sold": false
   },
   {
     "id": 295,
     "area": 1925,
-    "price": 1467500,
+    "price": "1 467 500",
     "sold": false
   },
   {
     "id": 296,
     "area": 2109,
-    "price": 1596300,
+    "price": "1 596 300",
     "sold": false
   },
   {
     "id": 297,
     "area": 2294,
-    "price": 1725800,
+    "price": "1 725 800",
     "sold": false
   },
   {
     "id": 298,
     "area": 2478,
-    "price": 1854600,
+    "price": "1 854 600",
     "sold": false
   },
   {
     "id": 299,
     "area": 2662,
-    "price": 1983400,
+    "price": "1 983 400",
     "sold": false
   },
   {
     "id": 300,
     "area": 2839,
-    "price": 2107300,
+    "price": "2 107 300",
     "sold": false
   },
   {
     "id": 301,
     "area": 2546,
-    "price": 1902200,
+    "price": "1 902 200",
     "sold": false
   },
   {
     "id": 302,
     "area": 1975,
-    "price": 1502500,
+    "price": "1 502 500",
     "sold": false
   },
   {
     "id": 303,
     "area": 1610,
-    "price": 1247000,
+    "price": "1 247 000",
     "sold": false
   },
   {
     "id": 304,
     "area": 1832,
-    "price": 1402400,
+    "price": "1 402 400",
     "sold": false
   },
   {
     "id": 305,
     "area": 2022,
-    "price": 1535400,
+    "price": "1 535 400",
     "sold": false
   },
   {
     "id": 306,
     "area": 2099,
-    "price": 1589300,
+    "price": "1 589 300",
     "sold": false
   },
   {
     "id": 307,
     "area": 2168,
-    "price": 1637600,
+    "price": "1 637 600",
     "sold": false
   },
   {
     "id": 308,
     "area": 2244,
-    "price": 1690800,
+    "price": "1 690 800",
     "sold": false
   },
   {
     "id": 309,
     "area": 2317,
-    "price": 1741900,
+    "price": "1 741 900",
     "sold": false
   },
   {
     "id": 310,
     "area": 2391,
-    "price": 1793700,
+    "price": "1 793 700",
     "sold": false
   },
   {
@@ -1868,43 +1868,43 @@
   {
     "id": 312,
     "area": 2511,
-    "price": 1626600,
+    "price": "1 626 600",
     "sold": false
   },
   {
     "id": 313,
     "area": 1709,
-    "price": 1145400,
+    "price": "1 145 400",
     "sold": false
   },
   {
     "id": 314,
     "area": 1680,
-    "price": 1128000,
+    "price": "1 128 000",
     "sold": false
   },
   {
     "id": 315,
     "area": 1812,
-    "price": 1207200,
+    "price": "1 207 200",
     "sold": false
   },
   {
     "id": 316,
     "area": 1951,
-    "price": 1290600,
+    "price": "1 290 600",
     "sold": false
   },
   {
     "id": 317,
     "area": 1570,
-    "price": 1062000,
+    "price": "1 062 000",
     "sold": false
   },
   {
     "id": 318,
     "area": 1635,
-    "price": 1101000,
+    "price": "1 101 000",
     "sold": false
   }
 ]

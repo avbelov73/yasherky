@@ -32,7 +32,7 @@
     </div>
     <div class="section" v-if="activeSection">
       <h4>Сектор {{section.id}}</h4>
-      <div>Стоимость сотки {{section.price}} рублей</div>
+<!--      <div>Стоимость сотки {{section.price}} рублей</div>-->
       <div>{{section.places}}</div>
     </div>
   </div>
